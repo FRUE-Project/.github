@@ -19,6 +19,6 @@ Das FRUE Projekt ist ein freies und quelloffenes Softwareprojekt, das von einem 
 ## Unser Software ist in dieser Sprachen gemacht: :united_nations:
 - Englisch 🇿🇦
 - Deutsch 🇦🇹
-- Französisch 🇨🇦
+- Französisch (nicht doch) 🇨🇦
 - Finnisch (nicht doch) 🇸🇪
 - Russisch (nicht doch) 🇧🇾
