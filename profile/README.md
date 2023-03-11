@@ -2,7 +2,7 @@
 
 # Über uns :heavy_check_mark:
 
-Das FRUE-Projekt ist freie und quelloffne Sofware Projekt von einem kleinen Team von Entwicklern betrieben. Alle das Software wir machen ist 100% kostenlos, und immer werden sein.
+Das FRUE-Projekt ist freie und quelloffne Sofware Projekt von einem kleinen Team von Entwicklern betrieben. Alle des Software wir machen ist 100% kostenlos, und immer werden sein.
 
 # Unsere Entwickler: :penguin:
 
