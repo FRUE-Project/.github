@@ -16,7 +16,7 @@ Das FRUE Projekt ist ein freies und quelloffenes Softwareprojekt, das von einem 
 - [FRUE Wiki](https://github.com/FRUE-Wiki) :book:
 - [Discord Server](https://discord.gg/qRysc6bVRv) :computer:
 
-## Unser Software ist in dieser Sprachen gemacht: :united_nations:
+## Unser Software ist auf dieser Sprachen gemacht: :united_nations:
 - Englisch 🇿🇦
 - Deutsch 🇦🇹
 - Französisch (nicht doch) 🇨🇦
